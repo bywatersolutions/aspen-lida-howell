@@ -1,0 +1,15 @@
+{
+  "name": "Howell Carnegie Library",
+  "slug": "howell",
+  "easId": "faa1b0b5-a980-46d6-a1f4-b2b65ac49a49",
+  "reverseDns": "org.aspendiscovery.howell",
+  "discoveryUrl": "https://howell.aspendiscovery.org/",
+  "greenhouseUrl": "https://howell.aspendiscovery.org/",
+  "libraryId": "1",
+  "themeId": "6",
+  "background": "#ffffff",
+  "sentryProject": "aspen-lida-howell",
+  "sentryDsn": "https://5c1ca8c2991e4043ff2e72f7028cf6c2@o994439.ingest.us.sentry.io/4508688457400320",
+  "ascAppId": "6741077316",
+  "logLevel": "0"
+}
